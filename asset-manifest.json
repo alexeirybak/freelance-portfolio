@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/freelance-portfolio/static/css/main.2c8a2bc2.css",
+    "main.js": "/freelance-portfolio/static/js/main.0f667ca1.js",
+    "static/media/05-big.jpg": "/freelance-portfolio/static/media/05-big.c22dd8d57bee0db93234.jpg",
+    "static/media/06-big.jpg": "/freelance-portfolio/static/media/06-big.aabab538dbfdbf304099.jpg",
+    "static/media/07-big.jpg": "/freelance-portfolio/static/media/07-big.57839d3ef18efdd7e197.jpg",
+    "static/media/04-big.jpg": "/freelance-portfolio/static/media/04-big.ad2f9eb8be21bc83a400.jpg",
+    "static/media/03-big.jpg": "/freelance-portfolio/static/media/03-big.39e8101f33ddc9738367.jpg",
+    "static/media/02-big.jpg": "/freelance-portfolio/static/media/02-big.bc44476b0412b49d4361.jpg",
+    "static/media/01-big.jpg": "/freelance-portfolio/static/media/01-big.705c201f420e63834c1e.jpg",
+    "static/media/10-big.jpg": "/freelance-portfolio/static/media/10-big.fea7de03604114b3935d.jpg",
+    "static/media/01.jpg": "/freelance-portfolio/static/media/01.fde27bb46686b898a1f8.jpg",
+    "static/media/03.jpg": "/freelance-portfolio/static/media/03.e0df4db7472f7de16977.jpg",
+    "static/media/08-big.jpg": "/freelance-portfolio/static/media/08-big.b89d5e0d7a8dfe9e7e6d.jpg",
+    "static/media/09-big.jpg": "/freelance-portfolio/static/media/09-big.04c844dc261baa146af5.jpg",
+    "static/media/10.jpg": "/freelance-portfolio/static/media/10.fe9c83dd52251786299c.jpg",
+    "static/media/04.jpg": "/freelance-portfolio/static/media/04.8463b114534b61ca7fa8.jpg",
+    "static/media/05.jpg": "/freelance-portfolio/static/media/05.f3fc466ca4eeac75eae6.jpg",
+    "static/media/06.jpg": "/freelance-portfolio/static/media/06.1f625b1a0befbaff98a5.jpg",
+    "static/media/11-big.jpg": "/freelance-portfolio/static/media/11-big.a381cddf9a651cebc96c.jpg",
+    "static/media/02.jpg": "/freelance-portfolio/static/media/02.469005c6b2c7ed6fb405.jpg",
+    "static/media/09.jpg": "/freelance-portfolio/static/media/09.ea13ebe3d010ed8ef9a4.jpg",
+    "static/media/11.jpg": "/freelance-portfolio/static/media/11.d9fbfbfb78ec039b81d1.jpg",
+    "static/media/08.jpg": "/freelance-portfolio/static/media/08.2c0ee33254269b687e61.jpg",
+    "static/media/07.jpg": "/freelance-portfolio/static/media/07.249ec49ee58b492a22f9.jpg",
+    "static/media/header-bg.png": "/freelance-portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/freelance-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/freelance-portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/freelance-portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/freelance-portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/vk.svg": "/freelance-portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "index.html": "/freelance-portfolio/index.html",
+    "main.2c8a2bc2.css.map": "/freelance-portfolio/static/css/main.2c8a2bc2.css.map",
+    "main.0f667ca1.js.map": "/freelance-portfolio/static/js/main.0f667ca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c8a2bc2.css",
+    "static/js/main.0f667ca1.js"
+  ]
+}
