@@ -3,8 +3,8 @@ import './styles.css'
 const Header = () => {
   const handleDownload = () => {
     const downloadLink = document.createElement('a');
-    downloadLink.href = '/CV.rtf'; 
-    downloadLink.download = 'CV.rtf';
+    downloadLink.href = '/CV.zip'; 
+    downloadLink.download = 'CV.zip';
     downloadLink.click();
   };
 
