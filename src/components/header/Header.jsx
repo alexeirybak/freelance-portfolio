@@ -1,6 +1,13 @@
 import './styles.css'
 
 const Header = () => {
+  const handleDownload = () => {
+    const downloadLink = document.createElement('a');
+    downloadLink.href = '/CV.rtf'; 
+    downloadLink.download = 'CV.rtf';
+    downloadLink.click();
+  };
+
   return (
     <header className='header'>
       <div className='header__wrapper'>
@@ -13,7 +20,7 @@ const Header = () => {
         <div className='header__text'>
           <p>with passion for learning and creating.</p>
         </div>
-        <a href='#!' className='btn'>
+        <a href='#!' className='btn' onClick={handleDownload}>
           Download CV
         </a>
       </div>

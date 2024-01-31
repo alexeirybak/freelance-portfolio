@@ -31,6 +31,12 @@ import project10Big from './../img/projects/10-big.jpg';
 import project11 from './../img/projects/11.jpg';
 import project11Big from './../img/projects/11-big.jpg';
 
+import project12 from './../img/projects/12.jpg';
+import project12Big from './../img/projects/12-big.jpg';
+
+import project13 from './../img/projects/13.jpg';
+import project13Big from './../img/projects/13-big.jpg';
+
 const projects = [
   {
     title: 'Furniture store template',
@@ -119,6 +125,22 @@ const projects = [
     skills: 'HTML, CSS, Javascript, React',
     gitHubLink: 'https://github.com/alexeirybak/WeatherApp',
     liveLink: 'https://alexeirybak.github.io/WeatherApp/',
+  },
+  {
+    title: 'PurpleMusic',
+    img: project12,
+    imgBig: project12Big,
+    skills: 'HTML, CSS, Javascript, React',
+    gitHubLink: 'https://github.com/alexeirybak/PurpleMusic',
+    liveLink: 'http://purple-music.na4u.ru/',
+  },
+  {
+    title: 'Yoric',
+    img: project13,
+    imgBig: project13Big,
+    skills: 'HTML, CSS, Javascript, React',
+    gitHubLink: 'https://github.com/alexeirybak/englishapp',
+    liveLink: 'https://yoric.ru',
   },
 ];
 
