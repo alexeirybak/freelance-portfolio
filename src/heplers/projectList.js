@@ -50,7 +50,7 @@ const projects = [
     img: project15,
     imgBig: project15Big,
     skills:
-      'Fullstack: Vue.js, Tailwind, Lodash, Mokky.dev',
+      'Fullstack: Vue.js, Tailwind, Lodash, axios, Mokky.dev',
     gitHubLink: 'https://github.com/alexeirybak/SneakersShop',
     liveLink: 'https://sneakers-shop-coral.vercel.app/',
   },
