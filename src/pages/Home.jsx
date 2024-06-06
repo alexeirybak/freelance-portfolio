@@ -15,8 +15,7 @@ export const Home = () => {
               </p>
             </li>
             <li className='content-list__item'>
-              <h2 className='title-2'>Backend</h2>
-              <p>MySQL, PHP</p>
+              
             </li>
           </ul>
         </div>
