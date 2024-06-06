@@ -43,6 +43,7 @@ import project14Big from './../img/projects/14-big.jpg';
 import project15 from './../img/projects/15.jpg';
 import project15Big from './../img/projects/15-big.jpg';
 
+
 const projects = [
   {
     title: 'Street Beat',
